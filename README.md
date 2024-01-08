@@ -1,1 +1,3 @@
-# nomad-react
+# React for Beginners
+
+Learning React
